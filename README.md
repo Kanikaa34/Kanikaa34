@@ -27,5 +27,3 @@ Analysis of customer performance, market performance versus targets, product per
 **B.Tech in Electronics and Computer Engineering**  
 SRM Institute of Science and Technology (SRMIST)
 
-## 🤝 Connect With Me
-- LinkedIn: Add your LinkedIn profile URL
